@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+a+frontend+developer.;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+a+frontend+developer.;React+Typescript)](https://git.io/typing-svg)
 
 Please, feel free to contact me via Telegram: @andrew_pontific.
 
