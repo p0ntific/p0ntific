@@ -11,7 +11,7 @@ My education: Bachelor's degree in SPBU Mathematics and computer science.
 - Urbaton, track "web development" - 2nd place;
 - Selectel, track "web development" - finalist.
 - Dubna tech, track "web development" - 2nd place.
-- 
+
 # Skills:
 - Unit, Integration, e2e, screenshot testing;
 - React, javascript/typescript;
