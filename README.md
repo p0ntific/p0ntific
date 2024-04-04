@@ -10,7 +10,8 @@ My education: Bachelor's degree in SPBU Mathematics and computer science.
 - Finodays 23, track "machine learning and AI" - finalist;
 - Urbaton, track "web development" - 2nd place;
 - Selectel, track "web development" - finalist.
-
+- Dubna tech, track "web development" - 2nd place.
+- 
 # Skills:
 - Unit, Integration, e2e, screenshot testing;
 - React, javascript/typescript;
